@@ -1,4 +1,4 @@
-# TestMP3
+# Diagnostico
 
 Aplicación de escritorio para diagnóstico y optimización rápida del sistema en Windows.
 
