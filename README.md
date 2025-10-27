@@ -23,7 +23,7 @@ Esta aplicación integra y facilita el acceso a las siguientes herramientas de t
 ## 🚀 Descarga
 
 El programa completo se puede descargar aquí:  
-🔗 [Descargar Diagnostico.exe](https://www.mediafire.com/file/u2oejdxx0yjs7tx/Diagnostico_FULL.rar/file)
+🔗 [Descargar Diagnostico Completo](https://www.mediafire.com/file/u2oejdxx0yjs7tx/Diagnostico_FULL.rar/file)
 
 
 ---
