@@ -2,7 +2,7 @@
 
 Aplicación de escritorio para diagnóstico y optimización rápida del sistema en Windows.
 
-![Logo](gg.png)  <!-- Si no tienes logo, puedes eliminar esta línea -->
+![Logo](DIagnostico.png)  <!-- Si no tienes logo, puedes eliminar esta línea -->
 
 ## 📝 Descripción
 
