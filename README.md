@@ -6,13 +6,24 @@ Aplicación de escritorio para diagnóstico y optimización rápida en Windows 1
 
 ## 📝 Descripción
 
-Diagnostico es una herramienta ligera que permite acceder a utilidades de diagnóstico y limpieza del sistema desde una interfaz sencilla.  
-**Nota:** Este repositorio no contiene el código fuente ni el ejecutable directamente. Solo se proporciona información y el enlace de descarga.
+**Diagnóstico** es una herramienta ligera que permite acceder rápidamente a utilidades de diagnóstico y limpieza del sistema desde una interfaz sencilla.  
+
+Esta aplicación integra y facilita el acceso a las siguientes herramientas de terceros:
+
+- **CPU-Z** – para información detallada del hardware.  
+- **Windows Memory Cleaner** – para limpiar y optimizar la memoria RAM.  
+- **CrystalDisk** – para monitoreo y análisis de discos duros.  
+- **WinDirStat** – para visualizar el uso de espacio en disco.  
+- **Geek Uninstaller** – para desinstalación completa de programas.  
+- **HWiNFO** – para supervisión avanzada del sistema y sensores.  
+
+> Nota: Diagnóstico no incluye el código de estas herramientas; simplemente permite ejecutarlas desde su interfaz.
+
 
 ## 🚀 Descarga
 
-El ejecutable se puede descargar aquí:  
-🔗 [Descargar TestMP3.exe](ESPERENME XD)
+El programa completo se puede descargar aquí:  
+🔗 [Descargar Diagnostico.exe](https://www.mediafire.com/file/u2oejdxx0yjs7tx/Diagnostico_FULL.rar/file)
 
 
 ---
@@ -20,13 +31,13 @@ El ejecutable se puede descargar aquí:
 ## 💻 Requisitos del Sistema
 
 - **Sistema Operativo:** Windows 10/11
-- 
 ---
 
 ## ⚠️ Advertencias
 
 - Este repositorio **no contiene el código fuente**.  
 - Descarga el ejecutable únicamente desde el enlace oficial para evitar archivos maliciosos.
+- Los programas incorporados son de licencia libre
 
 ---
 
