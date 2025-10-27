@@ -33,18 +33,16 @@ El programa completo se puede descargar aquí:
 - **Sistema Operativo:** Windows 10/11
 ---
 
-## ⚠️ Advertencias
+## ⚠️ Advertencias previas
 
-- Este repositorio **no contiene el código fuente**.  
-- Descarga el ejecutable únicamente desde el enlace oficial para evitar archivos maliciosos.
-- Los programas incorporados son de licencia libre
+- Descargue los ejecutables únicamente desde enlaces oficiales para evitar archivos maliciosos.
+- Los programas incorporados son de licencia libre.
 
 ---
 
 ## 👤 Autor
 
 - Usuario: `superbytecl`  
-- Contacto: `superbytecl@gmail.com`
 
 ---
 
