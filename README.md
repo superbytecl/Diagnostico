@@ -2,7 +2,7 @@
 
 Aplicación de escritorio para diagnóstico y optimización rápida en Windows 10/11.
 
-![Logo](Image.png)  <!-- Si no tienes logo, puedes eliminar esta línea -->
+![Logo](https://cdn.pixabay.com/photo/2023/06/11/20/18/cat-8056838_1280.jpg)  <!-- Si no tienes logo, puedes eliminar esta línea -->
 
 ## 📝 Descripción
 
